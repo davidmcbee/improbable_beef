@@ -12,7 +12,8 @@ to use to locate their specific information. The data collected is composed of 3
 who donated. The names array contains the id number assigned the person. This id number is also in the metadata array. The sample values array contains the corresponding species and name for each bacterial
 ID number, the OTU ID. Some bacterial species have different ID numbers, but are clumped together under the same otu_label. OTU stands for Operational Taxonomic Unit, and here it means species or bacterial type. In this
  instance, there were 80 bacterial types with distinct ID numbers.
-## The Web Site Build, available here (https://davidmcbee.github.io/improbable_beef/) is created using 5 files:
+## The Web Site Build
+The web site is here (https://davidmcbee.github.io/improbable_beef/) is created using 5 files:
 1.	The samples.json file. This the is data in json array format. (https://github.com/davidmcbee/improbable_beef/blob/master/samples.json).
 2.	The index.html file. This is the file that renders the web page. (https://github.com/davidmcbee/improbable_beef/blob/master/index.html).
 3.	The style.css file. This is a file that modifies the index.html file to render certain styles. (https://github.com/davidmcbee/improbable_beef/blob/master/style.css)
