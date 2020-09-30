@@ -22,11 +22,10 @@ The web site is here (https://davidmcbee.github.io/improbable_beef/) is created 
 	*  Gathers the data and assigns it to various parts of the html
 	* The buildMetadata function reads the data and fills the Test Subject IS selector and the Demographic Info panel.
 	* The buildCharts function filters the data to display the correct data in each of the three graphs.
-		* the bubble chart shows the bacteria ID and the number of those samples. By hovering over a particular bubble, which is sized proportionally to the number of sample,
-		one can see the OTU_ID, the number of samples and the text stating what those bacteria samples are.
-	* The bar chart shows the OTU_IDs and the number of samples of that bacteria horizontally in a descending order.
-	* The gauge chart shows how many times that person cleans their belly button per week.
-	* There is also a options changed function that initiates the changes once  user selects a particular ID.
+		* the bubble chart shows the bacteria ID and the number of those samples. By hovering over a particular bubble, which is sized proportionally to the number of 			samples. One can see the OTU_ID, the number of samples and the text stating what those bacteria samples are.
+		* The bar chart shows the OTU_IDs and the number of samples of that bacteria horizontally in a descending order.
+		* The gauge chart shows how many times that person cleans their belly button per week.
+		* There is also a options changed function that initiates the changes once  user selects a particular ID.
 
 ## Other Modifications
 In addition to the base product the following was modified:
