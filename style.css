@@ -3,7 +3,7 @@ body {
   padding: 1em;
 }
 .jumbotron {
-    background-image: url("../images/bb.jpg");
+    background-image: url("bb.jpg");
     height: 100%;
     width: 100%;
     background-size: cover;
